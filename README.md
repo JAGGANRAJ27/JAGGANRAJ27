@@ -25,4 +25,25 @@
   <h4>Have a project in mind? Let's build it together!</h4>
   
   <p><img src="https://github-readme-stats.vercel.app/api?username=JAGGANRAJ27&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Jagganraj's GitHub Stats"></p>
+
+  <!-- Interactive Game Section -->
+  <h2>🎮 Let's Play a Fun Game!</h2>
+  <p>Click the button and watch your clicks add up! 🤩</p>
+
+  <button id="clickButton" style="padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    Click Me!
+  </button>
+
+  <p>You've clicked <span id="clickCount">0</span> times!</p>
+
+  <script>
+    let clickCounter = 0;
+    const button = document.getElementById('clickButton');
+    const countDisplay = document.getElementById('clickCount');
+
+    button.addEventListener('click', () => {
+      clickCounter++;
+      countDisplay.textContent = clickCounter;
+    });
+  </script>
 </div>
