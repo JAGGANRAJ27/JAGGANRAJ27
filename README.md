@@ -1,10 +1,18 @@
-<div align="center">
+<div class="container text-center">
   <h1>Hello, I'm Jagganraj! 👋</h1>
   <p>Freelancer Web Developer | Based in Salem, Tamil Nadu - India 🇮🇳</p>
-  <p><strong>Email:</strong> <a href="mailto:njwebdesigning@gmail.com">njwebdesigning@gmail.com</a></p>
-  <p><strong>Website:</strong> <a href="https://njwebdesigning.in" target="_blank">njwebdesigning.in</a></p>
-  <p><strong>Phone:</strong> <a href="tel:+919952259514">+91 9952259514</a></p>
-  <p>Feel free to reach out for web development projects, and let’s create something amazing! 🌐</p>
+
+  <!-- Row for contact details -->
+  <div class="row">
+    <div class="col-md-6">
+      <p><strong>Email:</strong> <a href="mailto:njwebdesigning@gmail.com">njwebdesigning@gmail.com</a></p>
+      <p><strong>Phone:</strong> <a href="tel:+919952259514">+91 9952259514</a></p>
+    </div>
+    <div class="col-md-6">
+      <p><strong>Website:</strong> <a href="https://njwebdesigning.in" target="_blank">njwebdesigning.in</a></p>
+      <p>Feel free to reach out for web development projects, and let’s create something amazing! 🌐</p>
+    </div>
+  </div>
 
   <h2>🚀 Technologies I Love:</h2>
   <p>
