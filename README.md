@@ -20,9 +20,6 @@
   <h2>📚 I'm Currently Learning:</h2>
   <p>Web Development frameworks, Next.js, and exploring new tech trends! 🚀</p>
 
-  <h3>💬 Let’s Connect!</h3>
-  <p>📬 <a href="mailto:njwebdesigning@gmail.com">Email me</a> | 🌍 Visit my <a href="https://njwebdesigning.in" target="_blank">Website</a></p>
-
   <h4>Have a project in mind? Let's build it together!</h4>
   
   <p><img src="https://github-readme-stats.vercel.app/api?username=JAGGANRAJ27&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Jagganraj's GitHub Stats"></p>
