@@ -15,7 +15,10 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  </p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/Elementor-000000?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
+</p>
+
 
   <h2>📚 I'm Currently Learning:</h2>
   <p>Web Development frameworks, Next.js, and exploring new tech trends! 🚀</p>
