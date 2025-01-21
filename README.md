@@ -1,6 +1,6 @@
 <div class="container text-center">
   <h1>Hello, I'm Jagganraj! 👋</h1>
-  <p>Freelancer Web Developer | Based in Salem, Tamil Nadu - India 🇮🇳</p>
+  <p>Freelancer Web Developer | Based in Salem, Tamil Nadu - India</p>
 
   <!-- Row for contact details -->
   <div class="row">
