@@ -24,5 +24,5 @@
 
   <h4>Have a project in mind? Let's build it together!</h4>
   
-  <p><img src="https://github-readme-stats.vercel.app/api?username=njwebdesigning&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Jagganraj's GitHub Stats"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=JAGGANRAJ27&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Jagganraj's GitHub Stats"></p>
 </div>
